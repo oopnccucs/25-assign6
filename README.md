@@ -43,7 +43,7 @@ In this assignment, you are required to:
 ![image](https://github.com/user-attachments/assets/651bcafa-f3cb-4a75-a663-c54e7c015b0d)
 ![image](https://github.com/user-attachments/assets/c98e44e0-f485-44a4-aa99-f839f256583e)
 
-### Scoreing Criteria
+### Scoring Criteria
 |Description|Score|
 |-----|-----|
 |Submit the assignment|20|
