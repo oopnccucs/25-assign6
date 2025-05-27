@@ -39,11 +39,11 @@ In this assignment, you are required to:
 2. Handle player's input  to ** move (W, A, S, D)** and **switch (Tab)** between RPSObjects.
 3. When the game ends, determine the winner and print out.
 
-### Sample Output
+## Sample Output
 ![image](https://github.com/user-attachments/assets/651bcafa-f3cb-4a75-a663-c54e7c015b0d)
 ![image](https://github.com/user-attachments/assets/c98e44e0-f485-44a4-aa99-f839f256583e)
 
-### Scoring Criteria
+## Scoring Criteria
 |Description|Score|
 |-----|-----|
 |Submit the assignment|20|
@@ -54,7 +54,7 @@ In this assignment, you are required to:
 |Game break and winner determination|10|
 |More features(please create a "Readme.md" to show your additional designs)|10|
 
-### Reminder
+## Reminder
 
 1. GameObjects should not move outside the map.
 2. Pseudo code of collision:
